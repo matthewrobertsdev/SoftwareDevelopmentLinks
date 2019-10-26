@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/LearnSoftwareDevelopment/static/css/main.645cf225.chunk.css",
+    "main.js": "/LearnSoftwareDevelopment/static/js/main.bd4ba92f.chunk.js",
+    "main.js.map": "/LearnSoftwareDevelopment/static/js/main.bd4ba92f.chunk.js.map",
+    "runtime-main.js": "/LearnSoftwareDevelopment/static/js/runtime-main.96aaec5c.js",
+    "runtime-main.js.map": "/LearnSoftwareDevelopment/static/js/runtime-main.96aaec5c.js.map",
+    "static/js/2.fb297438.chunk.js": "/LearnSoftwareDevelopment/static/js/2.fb297438.chunk.js",
+    "static/js/2.fb297438.chunk.js.map": "/LearnSoftwareDevelopment/static/js/2.fb297438.chunk.js.map",
+    "index.html": "/LearnSoftwareDevelopment/index.html",
+    "precache-manifest.ab36aee1eb34d818181bdea49ed390d3.js": "/LearnSoftwareDevelopment/precache-manifest.ab36aee1eb34d818181bdea49ed390d3.js",
+    "service-worker.js": "/LearnSoftwareDevelopment/service-worker.js",
+    "static/css/main.645cf225.chunk.css.map": "/LearnSoftwareDevelopment/static/css/main.645cf225.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96aaec5c.js",
+    "static/js/2.fb297438.chunk.js",
+    "static/css/main.645cf225.chunk.css",
+    "static/js/main.bd4ba92f.chunk.js"
+  ]
+}
